@@ -42,7 +42,7 @@ Feature: Create user.
         "firstName": "Mary",
         "lastName": "Casas",
         "gender": "male",
-        "email": "dsa.casas@sofka.com",
+        "email": "sswwe.casas@sofka.com",
         "phone": "918.240.2878"
       }
     """

@@ -5,7 +5,7 @@ Feature: Search user.
 
   Scenario: Search all users.
     Given url 'https://dummyapi.io/data/v1/user'
-    And header app-id = '63516da13945d3e8da8889d7'
+    And header app-id = '63530a1213db235358002de7'
     When method get
     Then request 200
     And print response
